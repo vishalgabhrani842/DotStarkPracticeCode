@@ -1,0 +1,17 @@
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\bin\Debug\WebApiTest.Core.dll
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\bin\Debug\WebApiTest.Core.pdb
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.csprojAssemblyReference.cache
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.dll
+C:\Users\nitisha.s\source\repos\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.pdb
+F:\DotStark\WebApiTest\WebApiTest\WebApiTest.Core\bin\Debug\WebApiTest.Core.dll
+F:\DotStark\WebApiTest\WebApiTest\WebApiTest.Core\bin\Debug\WebApiTest.Core.pdb
+F:\DotStark\WebApiTest\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.csproj.CoreCompileInputs.cache
+F:\DotStark\WebApiTest\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.dll
+F:\DotStark\WebApiTest\WebApiTest\WebApiTest.Core\obj\Debug\WebApiTest.Core.pdb
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\bin\Debug\WebApiTest.Core.dll
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\bin\Debug\WebApiTest.Core.pdb
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\obj\Debug\WebApiTest.Core.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\obj\Debug\WebApiTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\obj\Debug\WebApiTest.Core.dll
+C:\Users\DELL\source\repos\PracticeCode\WebApiTest.Core\obj\Debug\WebApiTest.Core.pdb
